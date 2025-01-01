@@ -1,0 +1,23 @@
+{
+  "name": "cursor-ide-guide",
+  "version": "1.0.0",
+  "description": "初心者のためのCursor AIエディター完全ガイド",
+  "main": "index.js",
+  "scripts": {
+    "dev": "zenn preview",
+    "new:article": "zenn new:article",
+    "new:book": "zenn new:book"
+  },
+  "keywords": [
+    "cursor",
+    "ide",
+    "ai",
+    "programming",
+    "tutorial"
+  ],
+  "author": "Shunsuke Hayashi <shuhayas-shinobiai>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.0"
+  }
+} 

@@ -1,0 +1,9 @@
+{
+  "plugins": [],
+  "includeMarkdown": true,
+  "excludeMarkdown": [
+    "README.md",
+    ".cursorrules"
+  ],
+  "rootDir": "books/cursor-ide-guide"
+} 
