@@ -18,6 +18,6 @@
   "author": "Shunsuke Hayashi <shuhayas-shinobiai>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "^0.1.0"
+    "zenn-cli": "^0.1.159"
   }
-} 
+}
